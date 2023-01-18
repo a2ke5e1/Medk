@@ -16,4 +16,13 @@
         <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
         <item name="android:windowLightNavigationBar">?attr/isLightTheme</item>
     </style>
+
+    <style name="App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/medk_logo_no_text</item>
+        <item name="postSplashScreenTheme">@style/Theme.Medk</item>
+    </style>
+
 </resources>
