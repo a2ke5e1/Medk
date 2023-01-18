@@ -6,4 +6,5 @@
     <string name="cart">Cart</string>
     <string name="stores_near_me">Stores Near Me</string>
     <string name="profile">Profile</string>
+    <string name="search_your_local_pharmacy">Search your Local Pharmacy</string>
 </resources>
