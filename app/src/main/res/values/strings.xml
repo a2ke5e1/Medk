@@ -4,4 +4,6 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="cart">Cart</string>
+    <string name="stores_near_me">Stores Near Me</string>
+    <string name="profile">Profile</string>
 </resources>
